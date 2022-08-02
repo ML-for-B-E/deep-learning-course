@@ -4,4 +4,4 @@
 
 
 # Setup your execution environment
-https://github.com/ML-for-B-E/.github/wiki/Environment-Setup
+https://github.com/ML-for-B-E/.github/wiki/ML-Summer-Camp-courses
